@@ -1,3 +1,5 @@
 Fun facts about Mercury go here.
 
 Very substantive changes about Mercury here.
+
+Added text in GitHub
